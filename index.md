@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br>
 
 ## 錫とは？
 <br>
